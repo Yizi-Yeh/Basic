@@ -4,3 +4,4 @@ Web-Basic-In-Udemy
     * Callback_Hell
     * Promise
     * Async Await
+    * Fetch
