@@ -5,3 +5,6 @@ Web-Basic-In-Udemy
     * Promise
     * Async Await
     * Fetch
+
+* 2022.02.22 Advanced Javascript4
+    * bind、call、apply
