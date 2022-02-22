@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: burlywood;
+}
+
+header {
+  height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+header h1 {
+  color: white;
+  font-size: 3rem;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+input,
+button {
+  border: none;
+  padding: 0.25rem 0.5rem;
+  font-size: 1.75rem;
+  margin: 0.1rem;
+}
+input input[type=number],
+button input[type=number] {
+  width: 50px;
+  text-align: center;
+}/*# sourceMappingURL=style.css.map */
+
+
+.title {
+  font-family: 'Noto Sans TC', '微軟正黑體', sans-serif;
+  font-size: 1.25rem;
+  text-align: center;
+  color: red;
+}
+.d-none{
+  display: none;
+}
